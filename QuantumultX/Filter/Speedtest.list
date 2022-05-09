@@ -1,4 +1,6 @@
-HOST-SUFFIX,Speedtest.net, Speedtest
+#HOST-SUFFIX,Speedtest.net, Speedtest
+HOST-KEYWORD,ookla, Speedtest
+HOST-KEYWORD,Speedtest, Speedtest
 HOST,speed.dler.io,Speedtest
 HOST-SUFFIX,fast.com,Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
